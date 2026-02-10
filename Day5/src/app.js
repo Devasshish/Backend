@@ -36,8 +36,3 @@ app.patch('/notes/:index',(req,res)=>{
 
 module.exports= app
 
-
-// git init
-// git add .
-// git commit -m "Day 3 code pushed"
-// git push -u origin main
